@@ -3,17 +3,17 @@ import prayagAvatar from "@/assets/prayag-avatar.jpg";
 
 export const siteConfig = {
   bot: {
-    name: "Aerox",
+    name: "Feqan",
     tagline: "The next-generation Discord bot",
     description:
-      "Aerox is an all-in-one Discord bot crafted for modern communities. Moderation, music, fun, utilities — beautifully designed and lightning fast.",
+      "Feqan is an all-in-one Discord bot crafted for modern communities. Moderation, music, fun, utilities — beautifully designed and lightning fast.",
     version: "v3.2.0",
     servers: "120K+",
     users: "8.4M+",
     commands: 240,
     uptime: "99.99%",
     inviteUrl: "https://discord.com/oauth2/authorize",
-    supportUrl: "https://discord.gg/aerox",
+    supportUrl: "https://discord.gg/Feqan",
   },
 
   nav: [
@@ -110,14 +110,14 @@ export const siteConfig = {
 
   team: [
     {
-      name: "AeroX 1",
+      name: "Feqan 1",
       role: "Founder & Lead Developer",
       bio: "Architects the core. Loves clean code and 3am refactors.",
       avatar: prayagAvatar,
       socials: { github: "#", twitter: "#" },
     },
     {
-      name: "AeroX 2",
+      name: "Feqan 2",
       role: "Product Designer",
       bio: "Crafts the pixels you fall in love with.",
       avatar: "",
@@ -127,15 +127,15 @@ export const siteConfig = {
 
   faqs: [
     {
-      q: "Is Aerox free to use?",
+      q: "Is Feqan free to use?",
       a: "Yes, all core features are completely free. We offer an optional Premium tier for advanced music quality and exclusive customization.",
     },
     {
-      q: "How do I add Aerox to my server?",
+      q: "How do I add Feqan to my server?",
       a: "Click the Invite button anywhere on the site, authorize the bot with the Manage Server permission, and you are ready in seconds.",
     },
     {
-      q: "Does Aerox store my messages?",
+      q: "Does Feqan store my messages?",
       a: "No. We only store configuration data essential for commands. See our Privacy page for full details.",
     },
     {
@@ -150,8 +150,8 @@ export const siteConfig = {
 
   contact: {
     email: "xyz@gmail.com",
-    discord: "https://discord.gg/aerox",
-    github: "https://github.com/AeroXDevs",
+    discord: "https://discord.gg/Feqan",
+    github: "https://github.com/FeqanDevs",
     twitter: "https://twitter.com/nebula_bot",
   },
 
