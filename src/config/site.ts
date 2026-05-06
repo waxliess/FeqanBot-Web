@@ -110,18 +110,18 @@ export const siteConfig = {
 
   team: [
     {
-      name: "Feqan 1",
+      name: "Feqan",
       role: "Founder & Lead Developer",
       bio: "Architects the core. Loves clean code and 3am refactors.",
       avatar: prayagAvatar,
-      socials: { github: "#", twitter: "#" },
+      socials: { github: "https://github.com/feq4n", site: "https://www.feqan.com.tr" },
     },
     {
-      name: "Feqan 2",
+      name: "Bextiyar",
       role: "Product Designer",
       bio: "Crafts the pixels you fall in love with.",
-      avatar: "",
-      socials: { github: "#", twitter: "#" },
+      avatar: "https://cdn.discordapp.com/attachments/1501669022561861666/1501676719323480234/jujutsu-kaisen-satoru-gojo-anime-boys-anime-girls-hd-wallpaper-preview.jpg?ex=69fcf0ed&is=69fb9f6d&hm=69185a6008f65291da755768572566f895eaa1afc66547af3616599374cbf47d&",
+      socials: { github: "https://github.com/bextiyarr", site: "https://www.bextiyarr.com.tr" },
     },
   ],
 
