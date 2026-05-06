@@ -149,16 +149,16 @@ export const siteConfig = {
   ],
 
   contact: {
-    email: "xyz@gmail.com",
-    discord: "https://discord.gg/Feqan",
-    github: "https://github.com/FeqanDevs",
-    twitter: "https://twitter.com/nebula_bot",
+    email: "feqangerayli@gmail.com",
+    discord: "https://discord.gg/feqan",
+    github: "https://github.com/feq4n",
+    twitter: "https://twitter.com/feq4n",
   },
 
   socials: [
-    { icon: Github, href: "#", label: "GitHub" },
-    { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Mail, href: "xyz@gmail.com", label: "Email" },
+    { icon: Github, href: "https://github.com/feq4n", label: "GitHub" },
+    { icon: Twitter, href: "https://twitter.com/feq4n", label: "Twitter" },
+    { icon: Mail, href: "feqangerayli@gmail.com", label: "Email" },
   ],
 
   privacy: {
